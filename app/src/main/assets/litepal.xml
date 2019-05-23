@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="RSSI_Store"></dbname>
+    <version value="2"></version>
+    <list>
+        <mapping class="com.example.wifi_slam.WiFi_info"/>
+        <mapping class="com.example.wifi_slam.RSSI"/>
+    </list>
+</litepal>
